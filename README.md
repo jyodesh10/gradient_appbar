@@ -10,7 +10,7 @@ dependencies:
 ```
 
 ```dart
-import 'package:gradient_appbar/gradient_appbar.dart';
+import 'package:gradient_appbar/chromaflow_appbar.dart';
 ```
 
 ## Usage
