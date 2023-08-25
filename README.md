@@ -1,4 +1,4 @@
-# gradient_appbar
+# chromaflow_appbar
 A wrapper for AppBar() to get Gradient effect appbar.
 
 ## Features
