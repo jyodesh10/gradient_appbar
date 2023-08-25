@@ -1,7 +1,8 @@
 name: gradient_appbar
 description: A wrapper for AppBar() to get Gradient effect appbar.
 version: 0.0.1
-homepage:
+author: Jyodes
+homepage: https://github.com/jyodesh10/gradient_appbar
 
 environment:
   sdk: '>=2.19.4 <3.0.0'
