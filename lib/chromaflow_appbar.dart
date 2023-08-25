@@ -1,4 +1,4 @@
-library gradient_appbar;
+library chromaflow_appbar;
 
 import 'package:flutter/material.dart';
 

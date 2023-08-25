@@ -1,4 +1,4 @@
-name: gradient_appbar
+name: chromaflow_appbar
 description: A wrapper for AppBar() to get Gradient effect appbar.
 version: 0.0.1
 homepage: https://github.com/jyodesh10/gradient_appbar

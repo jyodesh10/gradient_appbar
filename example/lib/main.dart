@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:gradient_appbar/gradient_appbar.dart';
+import 'package:gradient_appbar/chromaflow_appbar.dart';
 
 void main() {
   runApp(const MyApp());

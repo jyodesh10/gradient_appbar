@@ -31,7 +31,7 @@ dependencies:
   flutter:
     sdk: flutter
   gradient_appbar:
-    path: ../../gradient_appbar
+    path: ../../chromaflow_appbar
 
 
   # The following adds the Cupertino Icons font to your application.
